@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308878691638",
+    "project_id": "bestbooksrecyclerview",
+    "storage_bucket": "bestbooksrecyclerview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308878691638:android:7911d3831a092ad8bd3797",
+        "android_client_info": {
+          "package_name": "com.example.bestbooksrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308878691638-k135vlkm30rtvad76n6ni5u9ucu7urtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ6BdAn_h0E-Rmmgvt995CaeyJ56ZBkwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308878691638-k135vlkm30rtvad76n6ni5u9ucu7urtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
